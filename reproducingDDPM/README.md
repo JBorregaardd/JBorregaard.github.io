@@ -8,9 +8,9 @@ The notebook `main_notebook.ipynb` contains the notebook which reproduces main r
 However, please note that we could not run the models in full on our local machines (we used the HPC system for the main results), and as such, the models have only been run for a few epochs in this notebook. Please see the additional comments in the top of the notebook. 
 
 <div style="text-align: center;">
-  <img src="images/mnist_visuals.png" alt="MNIST samples" width="700px">
+  <img src="mnist_visuals.png" alt="MNIST samples" width="700px">
 </div>
 
 <div style="text-align: center;">
-  <img src="images/cifar_visuals.png" alt="CIFAR10 samples" width="700px">
+  <img src="cifar_visuals.png" alt="CIFAR10 samples" width="700px">
 </div>
