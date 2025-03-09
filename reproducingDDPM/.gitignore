@@ -1,0 +1,16 @@
+env
+ddpm_env
+run.sh
+data
+temp
+test.ipynb
+js_sandbox.ipynb
+__pycache__/
+saved_models/
+wandb/
+
+
+# Jonathan HPC
+ddpm_venv/
+hpc_jobscript.sh
+run_fid_js.py 
